@@ -1,7 +1,7 @@
 # 💼 Comparativa de Módulos SAP vs Odoo
 
 📘 **Proyecto del Módulo 3 – MEDAC**  
-👨‍💻 **Autores:** Carlos Sánchez & Jesús Macías  
+👨‍💻 **Autores:** Carlos Sánchez y Jesús Macías  
 "EL ENLACE AL PDF SE ENCUENTRA AL FINAL DEL README"
 
 ---
