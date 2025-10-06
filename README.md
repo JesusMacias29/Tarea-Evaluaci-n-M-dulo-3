@@ -2,6 +2,7 @@
 
 📘 **Proyecto del Módulo 3 – MEDAC**  
 👨‍💻 **Autores:** Carlos Sánchez & Jesús Macías  
+"EL ENLACE AL PDF SE ENCUENTRA AL FINAL DEL README"
 
 ---
 
@@ -94,3 +95,8 @@ Odoo ofrece **simplicidad, flexibilidad y menor costo**, ideal para una PYME en 
 - Odoo ERP  
 - Gestión empresarial integrada  
 - Comparativa funcional
+
+---
+
+PDF aquí:  
+👉 
