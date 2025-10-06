@@ -99,4 +99,4 @@ Odoo ofrece **simplicidad, flexibilidad y menor costo**, ideal para una PYME en 
 ---
 
 PDF aquí:  
-👉 
+👉 https://github.com/JesusMacias29/Tarea-Evaluaci-n-M-dulo-3/blob/main/MEDAC_Tarea%20Evaluaci%C3%B3n%20M%C3%B3dulo%203.pdf
